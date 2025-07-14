@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farooq9114
 - 👀 I’m interested in coding and bug fixing.
-- 🌱 I’m currently learning c-language
+- 🌱 I’m currently learning Java Full stack development.
 - 💞️ I’m looking to collaborate on projects like bug fixing ,program developing etc.
 - 📫 How to reach me ...syedfarooqsyedfarooq6963@gmail.com
 
